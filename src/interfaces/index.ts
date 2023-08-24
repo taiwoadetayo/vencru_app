@@ -1,0 +1,1 @@
+export interface billingHistory { id: number, invoice: string , currency:string, amount: number, date: string, status: string, users: string[], }
